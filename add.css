@@ -1,0 +1,25 @@
+body{width:auto;}
+input{
+    text-align:center;
+    margin-top: 10px;
+    width:100px;
+}
+#validation{
+     background:white;
+     border:none;
+     border-radius:5px;
+}
+#validation:hover{
+     background:green;
+}
+.div{
+       border-radius: 5px;
+       font-size:20px;
+       box-shadow: 0 0 15px rgb(87, 87, 208);
+       color:white;
+       background:rgb(104, 104, 250);
+       padding: 20px;
+       width: 400px;
+       height: auto;
+       align-items:center;
+}
